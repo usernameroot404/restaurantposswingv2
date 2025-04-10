@@ -1,0 +1,28 @@
+# Ignore compiled class files
+*.class
+
+# Ignore jar files (optional if you want to keep local copies only)
+*.jar
+
+# Ignore log files
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor folders
+.vscode/
+.idea/
+*.iml
+
+# Ignore backup files
+*~
+*.bak
+
+# Ignore database backup dumps (if any)
+*.sql
+
+# Optional: ignore batch/shell scripts
+*.bat
+*.sh

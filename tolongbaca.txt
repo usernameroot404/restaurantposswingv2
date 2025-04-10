@@ -1,0 +1,4 @@
+untuk projek ini ada dua tampilan UI admin dan pembeli
+tugas pembeli hanya membeli dan checkout pesanan dan pesanan diteruskan ke admin dan admin akan melihat pesanan nya di ui nya tersendiri
+ui admin adminUI.java
+ui pembeli MenuItemForm.java
